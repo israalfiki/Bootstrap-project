@@ -1,0 +1,1 @@
+jquery and popper files are cdn, so they require internet connection.
